@@ -3,10 +3,6 @@
 ## Overview
 This training session is designed to introduce participants to essential bioinformatics tools and workflows using Conda for environment management. Participants will learn how to process sequencing data, perform alignment, and call variants using popular bioinformatics software.
 
-## Prerequisites
-- Basic knowledge of command-line interface (CLI)
-- Familiarity with bioinformatics concepts is beneficial but not required
-
 ## Setup Instructions
 
 ### Step 1: Create and Activate the Conda Environment
